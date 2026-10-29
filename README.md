@@ -4,12 +4,12 @@
 
 <div align="center">
 
-![Version](https://img.shields.io/badge/version-1.1.0-14b8a6?style=flat-square)
+![Version](https://img.shields.io/badge/version-1.2.0-14b8a6?style=flat-square)
 ![Platform](https://img.shields.io/badge/Android-7.0%2B-3ddc84?style=flat-square&logo=android&logoColor=white)
-![Size](https://img.shields.io/badge/size-3.4&nbsp;MB-blue?style=flat-square)
+![Size](https://img.shields.io/badge/size-3.3&nbsp;MB-blue?style=flat-square)
 ![License](https://img.shields.io/badge/license-proprietary-red?style=flat-square)
 
-**[⬇️ Download reCollect v1.1.0](reCollect-v1.1.0.apk)** · [What's new](#-whats-new) · [Installation](#-installation)
+**[⬇️ Download reCollect v1.2.0](reCollect-v1.2.0.apk)** · [What's new](#-whats-new) · [Installation](#-installation)
 
 </div>
 
@@ -58,7 +58,7 @@ Unlike other tracking apps, **your data is 100% yours**: it stays on your device
 > **Requirements**: Android 7.0 or newer · ~3.4 MB of space
 > **Devices**: works on phones and tablets from any manufacturer (Samsung, Xiaomi, Pixel, Motorola…) — the app contains no device-specific code and adapts to any screen size and aspect ratio, including the latest Android 15+ edge-to-edge displays.
 
-1. **Download** the APK: **[reCollect-v1.1.0.apk](reCollect-v1.1.0.apk)** (download button at the top right of the page that opens)
+1. **Download** the APK: **[reCollect-v1.2.0.apk](reCollect-v1.2.0.apk)** (download button at the top right of the page that opens)
 2. **Open the file** on your phone
 3. If Android warns you about installing from an *unknown source*, accept — this is normal for apps installed outside the Play Store. The app is digitally signed by its author
 4. Done! Open reCollect and add your first title 🎉
@@ -98,6 +98,15 @@ Your data is deleted. Before uninstalling or switching phones, export a backup f
 Yes: export the backup on the old phone, send the file to yourself (WhatsApp, email…), and import it on the new one.
 
 ## 📋 What's new
+
+### v1.2.0 — *October 2026*
+
+UI refinement pass:
+
+- ▶️ **Continue** section reworked: unwatched movies get a direct *Mark as watched* button instead of a meaningless progress stepper; series/anime/manga keep the stepper with larger 44 px buttons
+- 🎛️ **Vault filters** are now two always-visible rows (status + type with icons) — type filters are no longer hidden behind a horizontal scroll
+- 🧩 **Add form**: the selected type tile now shows its own color gradient with a check badge (previously barely visible), and the rating control is compact inline stars
+- 🌍 Progress text like "6 episodes left" is now fully localized, and progress bars follow your theme accent color
 
 ### v1.1.0 — *October 2026*
 
