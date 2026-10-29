@@ -47,11 +47,11 @@ Unlike other tracking apps, **your data is 100% yours**: it stays on your device
 
 ## 📸 Screenshots
 
-| Home & progress | Your vault |
-|:---:|:---:|
-| ![Home screen with episode progress](capturas/01-inicio-progreso.png) | ![Vault with filters](capturas/02-biblioteca.png) |
-| **Trending** | **Personalization** |
-| ![Trending with posters](capturas/03-tendencias.png) | ![Themes, colors and languages](capturas/04-temas-idiomas.png) |
+| Home & progress | Your vault | Trending |
+|:---:|:---:|:---:|
+| ![Home screen with episode progress](capturas/01-inicio-progreso.png) | ![Vault with filters](capturas/02-biblioteca.png) | ![Trending with posters](capturas/03-tendencias.png) |
+| **Add & smart search** | **Detail & ratings** | **Personalization** |
+| ![Add with smart search](capturas/06-anadir-busqueda.png) | ![Detail sheet with rating](capturas/07-detalle.png) | ![Themes, colors and languages](capturas/04-temas-idiomas.png) |
 
 ## 📥 Installation
 
