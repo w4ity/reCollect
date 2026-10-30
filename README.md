@@ -4,12 +4,12 @@
 
 <div align="center">
 
-![Version](https://img.shields.io/badge/version-1.2.0-14b8a6?style=flat-square)
+![Version](https://img.shields.io/badge/version-1.2.1-14b8a6?style=flat-square)
 ![Platform](https://img.shields.io/badge/Android-7.0%2B-3ddc84?style=flat-square&logo=android&logoColor=white)
 ![Size](https://img.shields.io/badge/size-3.3&nbsp;MB-blue?style=flat-square)
 ![License](https://img.shields.io/badge/license-proprietary-red?style=flat-square)
 
-**[⬇️ Download reCollect v1.2.0](reCollect-v1.2.0.apk)** · [What's new](#-whats-new) · [Installation](#-installation)
+**[⬇️ Download reCollect v1.2.1](reCollect-v1.2.1.apk)** · [What's new](#-whats-new) · [Installation](#-installation)
 
 </div>
 
@@ -58,7 +58,7 @@ Unlike other tracking apps, **your data is 100% yours**: it stays on your device
 > **Requirements**: Android 7.0 or newer · ~3.4 MB of space
 > **Devices**: works on phones and tablets from any manufacturer (Samsung, Xiaomi, Pixel, Motorola…) — the app contains no device-specific code and adapts to any screen size and aspect ratio, including the latest Android 15+ edge-to-edge displays.
 
-1. **Download** the APK: **[reCollect-v1.2.0.apk](reCollect-v1.2.0.apk)** (download button at the top right of the page that opens)
+1. **Download** the APK: **[reCollect-v1.2.1.apk](reCollect-v1.2.1.apk)** (download button at the top right of the page that opens)
 2. **Open the file** on your phone
 3. If Android warns you about installing from an *unknown source*, accept — this is normal for apps installed outside the Play Store. The app is digitally signed by its author
 4. Done! Open reCollect and add your first title 🎉
@@ -98,6 +98,16 @@ Your data is deleted. Before uninstalling or switching phones, export a backup f
 Yes: export the backup on the old phone, send the file to yourself (WhatsApp, email…), and import it on the new one.
 
 ## 📋 What's new
+
+### v1.2.1 — *October 2026*
+
+Stats & Trends redesign:
+
+- 📊 **Stats tab rebuilt**: lifetime counters that always grow (movies watched, episodes, chapters read, time watched) replace the misleading completion ring and the 4 total milestones
+- 🧱 Your collection is now a composition bar with per-type breakdown rows that take you straight to the filtered vault
+- 🔥 **Trends redesigned**: a #1 featured pick on top and a compact type switcher (Movies · Series · Anime · Manga) with dense rows — no more 4 side-scrolling carousels
+- ➕ **One-tap add** from Trends: the "+" button adds a title straight to your collection (titles you already own show a green check)
+- 🌍 Fully localized, including the new stats
 
 ### v1.2.0 — *October 2026*
 
