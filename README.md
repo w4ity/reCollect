@@ -162,6 +162,12 @@ React · Vite · Tailwind CSS · Zustand · Capacitor · Data from TMDB
 
 *(The app is distributed as a compiled APK only; the source code is not public.)*
 
+## 💌 Support
+
+reCollect is free, private and ad-free, and it stays that way. If it's useful to you,
+you can support its development on **[Ko-fi](https://ko-fi.com/w4itytips)** — every coffee helps! ☕
+
+
 ## 📄 License
 
 reCollect is **proprietary** software — see [LICENSE](LICENSE). You may use it and share it with friends as-is; decompiling it, reusing its code or assets, or distributing it for profit is not allowed.
